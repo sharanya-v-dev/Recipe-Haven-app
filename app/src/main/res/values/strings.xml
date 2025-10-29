@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Receipe_Book</string>
+        <string name="no_recipes_found" translatable="false">No recipes found</string>
+        <string name="add_recipe" translatable="false">Add Recipe</string>
+</resources>
